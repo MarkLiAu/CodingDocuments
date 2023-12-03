@@ -16,7 +16,7 @@
 | Machine Learning | Free |
 | Microsoft Entra ID | 50,000 stored objects with single sign-on (SSO) to all cloud apps |
 | Private Link | Free |
-| SQL Database | 100,000 vCore seconds with 32 GB of storage |
+| SQL Database | 1 General Purpose database 100,000 vCore seconds with 32 GB of storage |
 | Static Web Apps |100 GB bandwidth per subscription, 2 custom domains and .5 GB storage per app  |
 | Virtual Network | 50 virtual networks |
 
